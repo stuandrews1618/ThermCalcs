@@ -1,0 +1,15 @@
+Inner Frame	Total Length=	263.258	U-factor=	0.733044
+Inner Frame	Projected X=	81.4116	U-factor=	2.37042
+Inner Frame	Projected Y=	52.7	U-factor=	3.66185
+Edge	Total Length=	444.665	U-factor=	0
+Edge	Projected X=	195.003	U-factor=	0
+Edge	Projected Y=	29.5	U-factor=	0
+Outer Frame	Total Length=	263.443	U-factor=	1.14747
+Outer Frame	Projected X=	81.5916	U-factor=	3.70495
+Outer Frame	Projected Y=	52.7111	U-factor=	5.73489
+Glass Face Inner	Total Length=	151	U-factor=	0.647275
+Glass Face Inner	Projected X=	0	U-factor=	-1
+Glass Face Inner	Projected Y=	151	U-factor=	0.647275
+Frame	Total Length=	150.989	U-factor=	0.0767044
+Frame	Projected X=	0	U-factor=	-1
+Frame	Projected Y=	150.989	U-factor=	0.0767044

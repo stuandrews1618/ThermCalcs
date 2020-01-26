@@ -1,0 +1,9 @@
+Frame	Total Length=	266.783	U-factor=	0.056192
+Frame	Projected X=	129	U-factor=	0.11621
+Frame	Projected Y=	28.0035	U-factor=	0.535328
+Edge	Total Length=	64	U-factor=	0
+Edge	Projected X=	64	U-factor=	0
+Edge	Projected Y=	0	U-factor=	-1
+SHGC Exterior	Total Length=	283.997	U-factor=	0.907762
+SHGC Exterior	Projected X=	0.000244141	U-factor=	1.05595e+06
+SHGC Exterior	Projected Y=	283.997	U-factor=	0.907762
