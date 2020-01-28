@@ -1,0 +1,6 @@
+Edge	Total Length=	189.7	U-factor=	1.67927
+Edge	Projected X=	0	U-factor=	-1
+Edge	Projected Y=	189.7	U-factor=	1.67927
+Frame	Total Length=	49.7407	U-factor=	3.77101
+Frame	Projected X=	25.4996	U-factor=	7.35591
+Frame	Projected Y=	20	U-factor=	9.37863
